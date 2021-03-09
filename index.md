@@ -12,6 +12,6 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 In this website I will showcase my professional portfolio.
 And here is a loremipsum. :)
 
-Here's an example lesson: {{ page.lesson-example }}
+Here's an [example lesson:]({{ page.lesson-example }})
 
 [More about me/ my research](about.md)
