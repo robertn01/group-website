@@ -31,4 +31,5 @@ Numbered list:
 2. Item 2
 3. Item 3
 
-![Carpentries logo](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Logo Title Text 1")
+![Carpentries logo](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
+![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=100)
