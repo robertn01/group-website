@@ -31,4 +31,4 @@ Numbered list:
 2. Item 2
 3. Item 3
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png =100x20 "Logo Title Text 1" )
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1" )
