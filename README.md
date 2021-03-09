@@ -31,5 +31,5 @@ Numbered list:
 2. Item 2
 3. Item 3
 
-![](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png=100x20)
+![](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
 ![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=100)
