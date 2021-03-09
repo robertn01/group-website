@@ -31,4 +31,4 @@ Numbered list:
 2. Item 2
 3. Item 3
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1" )
+![Carpentries logo](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Logo Title Text 1")
