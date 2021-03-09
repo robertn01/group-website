@@ -18,3 +18,17 @@ Hyperlinks:
 - Software Carpentry
 - Data Carpentry
 - Library Carpentry
+
+## Another 2nd Level Heading
+
+You may find info [here](https://duckduckgo.com) but not ~~here~~.
+
+### Third level heading
+
+Numbered list:
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png =100x20 "Logo Title Text 1" )
