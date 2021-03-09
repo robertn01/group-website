@@ -1,6 +1,10 @@
-# My Research
+# My Research Project
 
-Completing a PhD in Data Science for Health Technology Appraisal.
+Completing a PhD in Data Science for Health Technology Appraisal. 
+
+## Also
+
+{{ site.description }}
 
 ## Cite us
 You can cite the project as:
@@ -9,6 +13,6 @@ You can cite the project as:
 
 ## Contact us
 
-- Email: [team@carpentries.org](mailto:team@carpentries.org)
+- Email: [{{ site.email }}](mailto:{{ site.email }})
 - Twitter: [@thecarpentries](https://twitter.com/thecarpentries)
 ```
