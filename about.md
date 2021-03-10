@@ -1,5 +1,6 @@
 ---
 layout: default
+title: My Research Project
 ---
 
 # My Research Project
