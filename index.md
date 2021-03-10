@@ -3,7 +3,7 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 layout: page
 ---
 
-{% include banner.md %}
+[//]: # ({% include banner.md %})
 
 # {{ site.title }}
 
