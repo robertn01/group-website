@@ -3,7 +3,7 @@ layout: default
 title: My Research Project
 ---
 
-# My Research Project
+My Research Project
 
 Completing a PhD in Data Science for Health Technology Appraisal. 
 
