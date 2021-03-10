@@ -16,3 +16,5 @@ And here is a loremipsum. :)
 Here's an [example lesson:]({{ page.lesson-example }})
 
 [More about me/ my research](about.md)
+
+[//]: # (This may be the most platform independent comment)
