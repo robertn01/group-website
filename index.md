@@ -8,7 +8,6 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 
 {{ site.description }}
 
-{% include muhhaha.md %}
 
 ## This is Robert's personal website btw ;)
 
