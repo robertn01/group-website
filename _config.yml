@@ -9,3 +9,6 @@ team_members: [
     {name: "Albert Hamilton", role: "editor", start_date: "2017-12-01"},
     {name: "Alice Dou", role: "dev", start_date: "2020-09-01"}
 ]
+collections:
+    - posts:
+        output: true
