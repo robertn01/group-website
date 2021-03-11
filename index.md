@@ -32,6 +32,6 @@ Here's an [example lesson:]({{ page.lesson-example }})
 ## Blog posts
 
 {% for post in site.posts | sort: "author" %}
-- {{ post.date | date_to_string }}: {{ post.title }}
+- {{ post.date | date_to_string }}: {{ post.title }} by {{ post.author }}
 {% endfor %}
 
