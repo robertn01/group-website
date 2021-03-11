@@ -14,11 +14,6 @@ team_members: [
 
 # Where things are
 
-source              : .
-collections_dir     : .
-layouts_dir         : _layouts
-includes_dir        : _includes
-
 collections:
     posts:
         output: true
