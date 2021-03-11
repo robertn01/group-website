@@ -13,7 +13,7 @@ title: "Building websites in GitHub"
 {% assign lead = site.team_members | where:"role", "project lead" | first %}
 
 The project is lead by {{ lead.name }}. 
-[See our full team](about.md).
+[See our full team](about.md#funders).
 
 ## This is Robert's personal website btw ;)
 
@@ -22,6 +22,6 @@ And here is a loremipsum. :)
 
 Here's an [example lesson:]({{ page.lesson-example }})
 
-[More about me/ my research](about.md#funders)
+[More about me/ my research](about.md)
 
 [//]: # (This may be the most platform independent comment)
