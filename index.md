@@ -15,6 +15,9 @@ title: "Building websites in GitHub"
 The project is lead by {{ lead.name }}. 
 [See our full team](about.md#funders).
 
+
+[See our full team](about#funders).
+
 ## This is Robert's personal website btw ;)
 
 In this website I will showcase my professional portfolio.
