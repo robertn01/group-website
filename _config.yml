@@ -17,4 +17,4 @@ team_members: [
 collections:
     posts:
         output: true
-        permalink: /:collection/:name:output_ext
+        permalink: group-website/:collection/:name:output_ext
