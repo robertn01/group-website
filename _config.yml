@@ -1,3 +1,5 @@
+# General web page global vars
+
 title: "Building websites in GitHub"
 description: "This research project develops training materials for researchers wanting to learn building static project portfolio websites."
 email: "robert.nagy@ed.ac.uk"
@@ -9,6 +11,14 @@ team_members: [
     {name: "Albert Hamilton", role: "editor", start_date: "2017-12-01"},
     {name: "Alice Dou", role: "dev", start_date: "2020-09-01"}
 ]
+
+# Where things are
+
+source              : .
+collections_dir     : .
+layouts_dir         : _layouts
+includes_dir        : _includes
+
 collections:
     posts:
         output: true
