@@ -8,6 +8,13 @@ title: "Building websites in GitHub"
 
 {{ site.description }}
 
+# Project lead
+
+{% assign lead = site.team_members | where:"role", "project lead" | first %}
+
+The project is lead by {{ lead.name }}. 
+[See our full team](/about).
+[See our full team](about.md).
 
 ## This is Robert's personal website btw ;)
 
