@@ -4,7 +4,8 @@ email: "robert.nagy@ed.ac.uk"
 twitter: "https://twitter.com/thecarpentries"
 twitterhandle: "@thecarpentries"
 team_members: [
-    {name: "Sarah Becker", role: "project lead", start_date: "2016-02-01"},
+    {name: "Tom Cat", role: "project lead", start_date: "2020-01-15"},
     {name: "Jane Smith", role: "maintainer", start_date: "2018-03-15"},
     {name: "Albert Hamilton", role: "editor", start_date: "2017-12-01"},
+    {name: "Alice Dou", role: "dev", start_date: "2020-09-01"}
 ]
