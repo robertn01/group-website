@@ -36,6 +36,6 @@ You could use the capture logic tag:
 
 
 {% for post in site.posts | sort: "author" %}
-- {{ post.date | date_to_string }}: [{{ post.title }}]{% post.url %} by *{{ post.author }}*
+- {{ post.date | date_to_string }}: [{{ post.title }}]({% link _posts/{{ post.url }} %}) by *{{ post.author }}*
 {% endfor %}
 
