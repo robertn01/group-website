@@ -10,5 +10,5 @@ team_members: [
     {name: "Alice Dou", role: "dev", start_date: "2020-09-01"}
 ]
 collections:
-    - posts:
+    -posts:
         output: true
