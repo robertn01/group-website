@@ -31,7 +31,7 @@ Here's an [example lesson:]({{ page.lesson-example }})
 
 ## Blog posts
 
-{% for posts in site.posts %}
+{% for post in site.posts %}
 - {{ post.date | date_to_string }}: {{ post.title }}
 {% endfor %}
 
