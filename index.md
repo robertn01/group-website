@@ -1,9 +1,10 @@
 ---
 lesson-example: "https://carpentries.github.io/lesson-example/"
 layout: default
+title: "Building websites in GitHub"
 ---
 
-# {{ site.title }}
+[//]: # {{ site.title }}
 
 {{ site.description }}
 
