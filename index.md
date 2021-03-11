@@ -28,3 +28,10 @@ Here's an [example lesson:]({{ page.lesson-example }})
 [More about me/ my research](about.md)
 
 [//]: # (This may be the most platform independent comment)
+
+## Blog posts
+
+{% for posts in site.posts %}
+- {{ post.date | date_to_string }}: {{ post.title }}
+{% endfor %}
+
